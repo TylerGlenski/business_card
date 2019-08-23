@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/business_card/static/css/main.69e66e2b.chunk.css",
-    "main.js": "/business_card/static/js/main.8eb7eed9.chunk.js",
-    "main.js.map": "/business_card/static/js/main.8eb7eed9.chunk.js.map",
+    "main.js": "/business_card/static/js/main.b080eed5.chunk.js",
+    "main.js.map": "/business_card/static/js/main.b080eed5.chunk.js.map",
     "runtime~main.js": "/business_card/static/js/runtime~main.dbf6bdaa.js",
     "runtime~main.js.map": "/business_card/static/js/runtime~main.dbf6bdaa.js.map",
     "static/js/2.b649b33a.chunk.js": "/business_card/static/js/2.b649b33a.chunk.js",
     "static/js/2.b649b33a.chunk.js.map": "/business_card/static/js/2.b649b33a.chunk.js.map",
     "index.html": "/business_card/index.html",
-    "precache-manifest.5359d041d834d41638ae61f03ba7307a.js": "/business_card/precache-manifest.5359d041d834d41638ae61f03ba7307a.js",
+    "precache-manifest.73215d9ad396ff410b4185a32bc1ace5.js": "/business_card/precache-manifest.73215d9ad396ff410b4185a32bc1ace5.js",
     "service-worker.js": "/business_card/service-worker.js",
     "static/css/main.69e66e2b.chunk.css.map": "/business_card/static/css/main.69e66e2b.chunk.css.map",
     "static/media/avatar.jpg": "/business_card/static/media/avatar.664e00e7.jpg",
