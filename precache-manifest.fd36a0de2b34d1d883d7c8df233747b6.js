@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c03055a07f1204c9e354344772ebf16a",
+    "revision": "fcab1e8d6716681261157eb7b2384d20",
     "url": "/business_card/index.html"
   },
   {
-    "revision": "455f457f8a57d88e2e5b",
-    "url": "/business_card/static/css/main.e271dc7c.chunk.css"
+    "revision": "075f5e9bce8964602365",
+    "url": "/business_card/static/css/main.6095394f.chunk.css"
   },
   {
     "revision": "9468c7f7a7a41c3ed46d",
     "url": "/business_card/static/js/2.b649b33a.chunk.js"
   },
   {
-    "revision": "455f457f8a57d88e2e5b",
-    "url": "/business_card/static/js/main.2824575b.chunk.js"
+    "revision": "075f5e9bce8964602365",
+    "url": "/business_card/static/js/main.4ee8dd3d.chunk.js"
   },
   {
     "revision": "cac8bb8eec78855e746e",
     "url": "/business_card/static/js/runtime~main.dbf6bdaa.js"
   },
   {
-    "revision": "664e00e7dd349332d15b1a4052dfe142",
-    "url": "/business_card/static/media/avatar.664e00e7.jpg"
+    "revision": "e2b178ee67bbb25008b7f81783220bf0",
+    "url": "/business_card/static/media/avatar.e2b178ee.jpg"
   },
   {
     "revision": "8f9caefb4c85b2bb194f265fb611eaa5",

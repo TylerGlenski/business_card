@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/business_card/static/css/main.e271dc7c.chunk.css",
-    "main.js": "/business_card/static/js/main.2824575b.chunk.js",
-    "main.js.map": "/business_card/static/js/main.2824575b.chunk.js.map",
+    "main.css": "/business_card/static/css/main.6095394f.chunk.css",
+    "main.js": "/business_card/static/js/main.4ee8dd3d.chunk.js",
+    "main.js.map": "/business_card/static/js/main.4ee8dd3d.chunk.js.map",
     "runtime~main.js": "/business_card/static/js/runtime~main.dbf6bdaa.js",
     "runtime~main.js.map": "/business_card/static/js/runtime~main.dbf6bdaa.js.map",
     "static/js/2.b649b33a.chunk.js": "/business_card/static/js/2.b649b33a.chunk.js",
     "static/js/2.b649b33a.chunk.js.map": "/business_card/static/js/2.b649b33a.chunk.js.map",
     "index.html": "/business_card/index.html",
-    "precache-manifest.1654368aef7af0629cc32c40425e5858.js": "/business_card/precache-manifest.1654368aef7af0629cc32c40425e5858.js",
+    "precache-manifest.fd36a0de2b34d1d883d7c8df233747b6.js": "/business_card/precache-manifest.fd36a0de2b34d1d883d7c8df233747b6.js",
     "service-worker.js": "/business_card/service-worker.js",
-    "static/css/main.e271dc7c.chunk.css.map": "/business_card/static/css/main.e271dc7c.chunk.css.map",
-    "static/media/avatar.jpg": "/business_card/static/media/avatar.664e00e7.jpg",
+    "static/css/main.6095394f.chunk.css.map": "/business_card/static/css/main.6095394f.chunk.css.map",
+    "static/media/avatar.jpg": "/business_card/static/media/avatar.e2b178ee.jpg",
     "static/media/email.svg": "/business_card/static/media/email.8f9caefb.svg",
     "static/media/shoppingcart.svg": "/business_card/static/media/shoppingcart.1c6ca9ca.svg"
   }
