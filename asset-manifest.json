@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/business_card/static/css/main.e9d4a24c.chunk.css",
-    "main.js": "/business_card/static/js/main.55106031.chunk.js",
-    "main.js.map": "/business_card/static/js/main.55106031.chunk.js.map",
-    "runtime~main.js": "/business_card/static/js/runtime~main.dbf6bdaa.js",
-    "runtime~main.js.map": "/business_card/static/js/runtime~main.dbf6bdaa.js.map",
-    "static/js/2.4e7d6df1.chunk.js": "/business_card/static/js/2.4e7d6df1.chunk.js",
-    "static/js/2.4e7d6df1.chunk.js.map": "/business_card/static/js/2.4e7d6df1.chunk.js.map",
-    "index.html": "/business_card/index.html",
-    "precache-manifest.bf905672fce28a49cd11256de232aa75.js": "/business_card/precache-manifest.bf905672fce28a49cd11256de232aa75.js",
-    "service-worker.js": "/business_card/service-worker.js",
-    "static/css/main.e9d4a24c.chunk.css.map": "/business_card/static/css/main.e9d4a24c.chunk.css.map",
-    "static/media/avatar.jpg": "/business_card/static/media/avatar.e2b178ee.jpg",
-    "static/media/email.svg": "/business_card/static/media/email.8f9caefb.svg",
-    "static/media/shoppingcart.svg": "/business_card/static/media/shoppingcart.1c6ca9ca.svg"
+    "main.css": "/lindsaysbling/static/css/main.e9d4a24c.chunk.css",
+    "main.js": "/lindsaysbling/static/js/main.e860cf26.chunk.js",
+    "main.js.map": "/lindsaysbling/static/js/main.e860cf26.chunk.js.map",
+    "runtime~main.js": "/lindsaysbling/static/js/runtime~main.78bfba3c.js",
+    "runtime~main.js.map": "/lindsaysbling/static/js/runtime~main.78bfba3c.js.map",
+    "static/js/2.a74d7833.chunk.js": "/lindsaysbling/static/js/2.a74d7833.chunk.js",
+    "static/js/2.a74d7833.chunk.js.map": "/lindsaysbling/static/js/2.a74d7833.chunk.js.map",
+    "index.html": "/lindsaysbling/index.html",
+    "precache-manifest.94b585b1102a4ad64dc4b3ec819fffba.js": "/lindsaysbling/precache-manifest.94b585b1102a4ad64dc4b3ec819fffba.js",
+    "service-worker.js": "/lindsaysbling/service-worker.js",
+    "static/css/main.e9d4a24c.chunk.css.map": "/lindsaysbling/static/css/main.e9d4a24c.chunk.css.map",
+    "static/media/avatar.jpg": "/lindsaysbling/static/media/avatar.e2b178ee.jpg",
+    "static/media/email.svg": "/lindsaysbling/static/media/email.8f9caefb.svg",
+    "static/media/shoppingcart.svg": "/lindsaysbling/static/media/shoppingcart.1c6ca9ca.svg"
   }
 }
